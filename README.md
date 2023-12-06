@@ -1,4 +1,4 @@
-(acme-dashboard-beta.vercel.app)
+[Acme Dashboard](https://acme-dashboard-beta.vercel.app)
 
 # Table Of Content
 
@@ -7,7 +7,7 @@
 - Screenshots
 - Link to Project
 
-# Movie App
+# ACME DASHBOARD
 
 This is a full web application Dashboard, that fetches customers and thier invoices from a vercel postgress database
 some of the functionlitie of the app includes:Authenication, creating a new invoices, search for invoices and also customers
