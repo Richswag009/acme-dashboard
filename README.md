@@ -1,4 +1,4 @@
-This is a [live link](acme-dashboard-beta.vercel.app)
+(acme-dashboard-beta.vercel.app)
 
 # Table Of Content
 
@@ -24,7 +24,7 @@ some of the functionlitie of the app includes:Authenication, creating a new invo
 
 # Link to project
 
-[Acme Dashboard](acme-dashboard-beta.vercel.app)
+[Acme Dashboard](https://acme-dashboard-beta.vercel.app)
 
 
 # Usage
