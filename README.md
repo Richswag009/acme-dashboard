@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [live link](acme-dashboard-beta.vercel.app)
 
-## Getting Started
+# Table Of Content
 
-First, run the development server:
+- Acme- Dashboard
+- Built with
+- Screenshots
+- Link to Project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Movie App
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This is a full web application Dashboard, that fetches customers and thier invoices from a vercel postgress database
+some of the functionlitie of the app includes:Authenication, creating a new invoices, search for invoices and also customers
+# Built With
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next.js
+- TailwindCss
+- Vercel/postgress
+- NextAuth
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# ScreenShots
 
-## Learn More
+![alt text](image.jpg)
 
-To learn more about Next.js, take a look at the following resources:
+# Link to project
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[Acme Dashboard](acme-dashboard-beta.vercel.app)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+# Usage
+ git clone
+ 
+ cd acme-dashboard
+ 
+ npm install
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+ 
+ # Run front
+ npm run dev
+
+ 
+ # Build client
+ cd acme-dashboard
+ npm run build
+ 
+ # Prod
+ npm start
+
