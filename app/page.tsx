@@ -46,9 +46,6 @@ export default function Page() {
           />
         </div>
       </div>
-      <Link href="/dashboard">
-        <button className="px-4 py-3 bg-black text-white">go heret</button>
-      </Link>
     </main>
   );
 }
